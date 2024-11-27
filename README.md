@@ -132,7 +132,6 @@ This repository is more than just a deployment of WordPress – it’s a showcas
 
 This PoC demonstrates technical knowledge, but the level of hardening and customisation will depend on specific client requirements. The setup provides a foundation that can be extended to meet production-grade standards.
 
----
 
 ## 🙌 About
 
